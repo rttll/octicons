@@ -4,6 +4,7 @@ Use this checklist to add a new/updated octicon to the Figma library and the Oct
 
 ## Figma
 - [ ] Remove white background from icon frame
+- [ ] Copy the icon to the "source" page BEFORE outlining or merging it.
 - [ ] Outline all strokes of vector shape
 - [ ] Union shapes
 - [ ] Merge/flatten vector (cmd+e)
