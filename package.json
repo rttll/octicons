@@ -1,4 +1,5 @@
 {
+  "name": "octicons",
   "private": true,
   "version": "14.2.2",
   "scripts": {
